@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**atulyadav12135/atulyadav12135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👨🏻‍💻ATUL 💻 YADAV** ✨Student_Profile✨
 
-Here are some ideas to get you started:
+I am working on Developing our skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently pursuing B.tech CSE AI&ML (Batch 2022-26).
+- 🌱 I’m currently learning Python Programming Language & Full stack Development Parallel manner.
+- 👯 I’m looking to collaborate on making project.
+- 🤔 I’m looking for help with:(update soon)
+- 💬 Ask me about: Everthings
+- 📫 How to reach me: LinkedIn-www.linkedin.com/in/atulyadav12135 & E-mail-atulyadav91611@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: (update soon)
